@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="github-to-azure.AppHost/github-to-azure.AppHost.csproj" />
+  <Project Path="github-to-azure.ServiceDefaults/github-to-azure.ServiceDefaults.csproj" />
+</Solution>
